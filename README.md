@@ -1,9 +1,9 @@
 
 <p>
-  <h1 align="center">Hello there, I'm NTTin 👋</h1>
+  <h1 align="center">Hello my friend, Watashinonamaeha Trung Tin Ngu Yen 👋</h1>
 </p>
 
-  <h3 align="center">My goal is become a <b>Happy Man 🙋🏻</b></h3>
+  <h3 align="center">My goal is to become a <b>happy man 🙋🏻</b></h3>
 
 <p align="center">
   <a href="https://www.facebook.com/npmrunstart/"><img style="height:55px;"  src="https://www.transparentpng.com/thumb/facebook-logo-png/background-facebook-logo-5.png" alt="Facebook" /></a>
@@ -12,20 +12,15 @@
 </p>
 
 
-<h2> I am studying at Ho Chi Minh University of Sience 🏫 </h2>
-- 💬 Ask me about anything, I am happy not to help :smile: <br>
-- 📬 Contact me: <a href='hopthucuatin@gmail.com'>hopthucuatin@gmail.com</a>  <br>
-- 🧗 I try to live a happy life
+<h2> I am self studying</h2>
+- 💬 Do not ask me about anything, I wont help you and I am happy not to help :smile: <br>
+- 📬 Dont contact me: <a href='hopthucuatin@gmail.com'>hopthucuatin@gmail.com</a>  <br>
+- 🧗 I try to be the richest man alive
 
 <h2> 🧰 Languages: </h2>
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Go" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+
 <br>
 <br>
 
