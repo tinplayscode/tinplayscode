@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center">Hello my friend, Watashinonamaeha Trung Tin Ngu Yen 👋</h1>
+  <h1 align="center">Hello my friend, 私の名前は Trung Tin Ngu Yen 👋</h1>
 </p>
 
   <h3 align="center">My goal is to become a <b>happy man 🙋🏻</b></h3>
