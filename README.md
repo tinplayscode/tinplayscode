@@ -3,7 +3,10 @@
   <h1 align="center">Hello my friend, 私の名前は Trung Tin Nguyen 👋</h1>
 </p>
 
-  <h3 align="center">My goal is to become a <b>happy man 🙋🏻</b></h3>
+  <p align="center">
+  > 2021: Go, JS/TS (advanced), Chrome Extension✅  <br />
+  > Target 2022: smart contract developer.🚌
+</p>
 
 <p align="center">
   <a href="https://www.facebook.com/npmrunstart/"><img style="height:55px;"  src="https://www.transparentpng.com/thumb/facebook-logo-png/background-facebook-logo-5.png" alt="Facebook" /></a>
@@ -20,7 +23,13 @@
 <h2> 🧰 Languages: </h2>
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br>
 <br>
 
