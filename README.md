@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tin</h1>
-<h3 align="center">A UI/UX/Analyst/web/mobile/blockchain/frontend/backend Fullstack developer</h3>
+<h3 align="center">A web/mobile/smart contract/frontend/backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinplayscode&label=Profile%20views&color=0e75b6&style=flat" alt="tinplayscode" /> </p>
 
